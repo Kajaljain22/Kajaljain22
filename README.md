@@ -1,7 +1,7 @@
 ### Hello peeps!👋
 
 I am Kajal Jain. <br>
-Currently working as a Game Developer in Bangalore, India.<br>
+Currently working as an Associate Software Engineer in Bangalore, India.<br>
 Always open to new connections and tech discussions.<br>
 Have a look at my [repositories](https://github.com/Kajaljain22?tab=repositories) and do star them if you like :star: :wink: <br>
 - 📫 How to reach me: ... <br><br>
